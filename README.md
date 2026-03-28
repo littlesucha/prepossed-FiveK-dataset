@@ -1,4 +1,7 @@
-# MIT-FiveK-dataset
+# prepossed-FiveK-dataset
+My research requires additional data from Experts A, B, D, and E. Since there seem to be very few studies using these four experts’ versions, I was unable to find a convenient way online to obtain them. I therefore had to download the original 4K-resolution dataset and manually process the data myself, which was quite cumbersome. To help others with similar needs, I am sharing this link for anyone who may find these data useful.
+
+
 I have created a download link for the FiveK dataset. It contains both the 480p version and the original 4K-resolution version, including the input images as well as the corresponding retouched results from Experts A, B, C, D, and E, for public download.
 
 
